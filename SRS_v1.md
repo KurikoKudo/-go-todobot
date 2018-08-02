@@ -10,3 +10,4 @@ gitとslackの連携をする
 ### 第２版
 
 botでどこまでできるかの調査
+commit -F <file> の使用確認済み
